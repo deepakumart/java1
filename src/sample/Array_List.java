@@ -18,6 +18,11 @@ public class Array_List {
 		System.err.println(a.set(3, "deee"));
 		System.out.println(a.remove(0));
 		System.out.println(a);
+		System.out.println(a);System.out.println(a);
+		System.out.println(a);
+		System.out.println(a);
+		System.out.println(a);
+		
 	}
 
 }
